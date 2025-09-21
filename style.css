@@ -4,7 +4,6 @@ body {
     color: #fff;
     font-family: 'Comic Sans MS', 'Chalkduster', 'cursive'; /* Embrace the chaos */
     margin: 0;
-    overflow: hidden; /* Hide scrollbars caused by chaos */
 }
 
 /* --- Chaos Layer --- */
